@@ -1,12 +1,9 @@
 {
-    "builds": [
-      {
-        "src": "package.json",
-        "use": "@vercel/static-build",
-        "config": {
-        "distDir": "public",
-        "buildCommand": "npm run build"
-        }
-      }
-    ]
-  }
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.135.0",
+      "GO_VERSION": "1.19.5"
+    }
+  },
+ "buildCommand": "hugo --gc --minify"
+}
