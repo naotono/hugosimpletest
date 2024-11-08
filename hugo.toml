@@ -3,6 +3,3 @@ languageCode = "ja"
 title = "Your Site Title"
 theme = 'PaperMod'
 sectionPagesMenu = 'main'
-
-[outputs]
-  home = ["HTML"]
