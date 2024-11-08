@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>simple my homepage</title>
+    <link>https://hugosimpletest2.vercel.app/</link>
+    <description>Recent content on simple my homepage</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2024 17:55:32 +0900</lastBuildDate>
+    <atom:link href="https://hugosimpletest2.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>https://hugosimpletest2.vercel.app/posts/my-third-post/</link>
+      <pubDate>Fri, 08 Nov 2024 17:55:32 +0900</pubDate>
+      <guid>https://hugosimpletest2.vercel.app/posts/my-third-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>https://hugosimpletest2.vercel.app/posts/my-second-post/</link>
+      <pubDate>Fri, 08 Nov 2024 17:52:51 +0900</pubDate>
+      <guid>https://hugosimpletest2.vercel.app/posts/my-second-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hello World&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;function hello() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    post(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hello&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;function scale(a) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; a &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;module&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;exports &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; {hello, scale};
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://hugosimpletest2.vercel.app/posts/my-first-post/</link>
+      <pubDate>Fri, 08 Nov 2024 17:27:29 +0900</pubDate>
+      <guid>https://hugosimpletest2.vercel.app/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://hugosimpletest2.vercel.app/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hugosimpletest2.vercel.app/about/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
