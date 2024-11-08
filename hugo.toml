@@ -1,0 +1,6 @@
+baseURL = 'https://hugosimpletest.netlify.app/'
+languageCode = 'en-us'
+title = 'simple my homepage'
+theme = 'PaperMod'
+sectionPagesMenu = 'main'
+
