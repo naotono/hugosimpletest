@@ -50,7 +50,7 @@ can you see me?&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hugosimpletest2.vercel.app/about/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;strong&gt;this is about page. please write your profile here&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;this is about page. please write your profile here!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
