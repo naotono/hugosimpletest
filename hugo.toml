@@ -1,6 +1,8 @@
 baseURL = 'https://hugosimpletest2.vercel.app/'
-languageCode = 'en-us'
-title = 'simple my homepage'
+languageCode = "ja"
+title = "Your Site Title"
 theme = 'PaperMod'
 sectionPagesMenu = 'main'
 
+[outputs]
+  home = ["HTML"]
