@@ -1,4 +1,4 @@
-baseURL = 'https://hugosimpletest.netlify.app/'
+baseURL = 'https://hugosimpletest2.vercel.app/'
 languageCode = 'en-us'
 title = 'simple my homepage'
 theme = 'PaperMod'
