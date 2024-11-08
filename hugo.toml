@@ -4,5 +4,3 @@ title = 'simple my homepage'
 theme = 'PaperMod'
 sectionPagesMenu = 'main'
 
-[outputs]
-  home = ["HTML"]
