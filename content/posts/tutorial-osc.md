@@ -1,6 +1,6 @@
 +++
 date = '2024-11-09T13:11:01+09:00'
-draft = true
+draft = false
 title = 'Tutorial Osc'
 ShowToc = true
 TocOpen = true
