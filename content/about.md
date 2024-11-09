@@ -7,6 +7,6 @@ menus = 'main'
 
 **this is about page. please write your profile here!!!**  
 ok adding something 
-**from git hub pages!**
-  you can see after about a minute later  
-  one more time x 44444
+**from git hub pages!**  
+you can see after about a minute later  
+one more time x 44444
