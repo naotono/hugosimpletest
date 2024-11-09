@@ -5,16 +5,16 @@ title = 'Tutorial Osc'
 ShowToc = true
 +++
 
-## Phasor Wave
+### Phasor Wave
 
 <!--more-->
 
-### genを使ったPhasor Wave
+#### genを使ったPhasor Wave
 ![alt](/images/phasor.png)
 
 ---
 
-### Codeboxを使ったPhasor Wave
+#### Codeboxを使ったPhasor Wave
 ```
 History h;
 sr = samplerate;
@@ -29,13 +29,13 @@ out1 = y;
 ```
 ---
 
-## Sin Wave
+### Sin Wave
 
-### genを使ったSin Wave
+#### genを使ったSin Wave
 
 ---
 
-### Codeboxを使ったSin Wave
+#### Codeboxを使ったSin Wave
 ```
 History h;
 sr = samplerate;
@@ -53,12 +53,12 @@ out1 = y;
 
 ---
 
-## Rectangle
-### genを使ったRectangle Wave
+### Rectangle
+#### genを使ったRectangle Wave
 
 ---
 
-### Codeboxを使ったRectangle Wave
+#### Codeboxを使ったRectangle Wave
 ```
 History h;
 sr = samplerate;
