@@ -2,11 +2,13 @@
 date = '2024-11-09T13:11:01+09:00'
 draft = false
 title = 'Tutorial Osc'
-ShowToc = true
-TocOpen = true
+toc = true
+tocOpen = true
 +++
 
 ## Phasor Wave
+
+<!--more-->
 
 ### genを使ったPhasor Wave
 ![alt](/images/phasor.png)

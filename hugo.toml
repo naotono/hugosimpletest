@@ -1,7 +1,7 @@
 baseURL = 'https://hugosimpletest2.vercel.app/'
 languageCode = "ja"
 title = "Your Site Title"
-theme = 'PaperMod'
+theme = "hugo-blog-awesome"
 sectionPagesMenu = 'main'
 
 
@@ -14,7 +14,8 @@ target = 'static'
 source = 'images'
 target = 'static/images'
 
-[markup]
-[markup.tableOfContents]
-endLevel = 5       # どのレベルまで目次に表示するか (h5)
-startLevel = 2     # どのレベルから目次に表示する（h2)
+
+[params]
+    [params.author]
+    intro = "hello"
+    description = "yoyoyo"
