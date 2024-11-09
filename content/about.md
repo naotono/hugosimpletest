@@ -10,3 +10,5 @@ ok adding something
 **from git hub pages!**  
 you can see after about a minute later  
 one more time x 44444
+
+![alt](/images/phasor.png)

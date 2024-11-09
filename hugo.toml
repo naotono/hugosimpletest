@@ -3,3 +3,18 @@ languageCode = "ja"
 title = "Your Site Title"
 theme = 'PaperMod'
 sectionPagesMenu = 'main'
+
+
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
+[markup]
+[markup.tableOfContents]
+endLevel = 5       # どのレベルまで目次に表示するか (h5)
+startLevel = 2     # どのレベルから目次に表示する（h2)
