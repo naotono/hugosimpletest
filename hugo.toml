@@ -1,7 +1,7 @@
 baseURL = 'https://hugosimpletest2.vercel.app/'
 languageCode = "ja"
 title = "Your Site Title"
-theme = "hugo-blog-awesome"
+theme = "hugo-bearblog"
 sectionPagesMenu = 'main'
 
 
